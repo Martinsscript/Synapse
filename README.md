@@ -1,8 +1,6 @@
 # Nome do trabalho
 Projeto com o objetivo de desenvolver um site interativo multi-funcional.
 
-========= Instruções gerais =========
-
 # 📋 Resumo: Orientação Geral do Trabalho Prático 2 - Aplicação Web
 Este é um projeto em grupo para desenvolver uma aplicação web interativa, usando intensamente JavaScript e com o desafio de extrapolar o conteúdo visto em sala de aula. O foco é criar conteúdo que o usuário final possa gerar.
 
