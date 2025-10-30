@@ -1,15 +1,15 @@
-# Nome do trabalho
-Projeto com o objetivo de desenvolver um site interativo multi-funcional.
+# Synapse
+Projeto com o objetivo de desenvolver um site interativo multi-funcional
 
 # 📋 Resumo: Orientação Geral do Trabalho Prático 2 - Aplicação Web
 Este é um projeto em grupo para desenvolver uma aplicação web interativa, usando intensamente JavaScript e com o desafio de extrapolar o conteúdo visto em sala de aula. O foco é criar conteúdo que o usuário final possa gerar.
 
-# 🎯 Escolha do Projeto (Obrigatório escolher APENAS 1):
-Gerenciador de Mídia: Sistema para listar, categorizar (com nome e cor) e filtrar jogos/livros/músicas/filmes que o usuário já consumiu ou deseja consumir.
+# 🎯 Tema Escolhido e Funcionalidade Principal (Obrigatório):
+Gerenciador de Mídia: Criar um sistema que permite ao usuário listar, categorizar e filtrar jogos/livros/músicas/filmes que ele deseja ou já consumiu.
 
-Jogo Interativo: Desenvolver um jogo (ex: cartas, navinha, Tamagotchi, etc.) que deve ter obrigatoriamente um ranking e permitir a personalização do jogador (ex: avatar).
+O usuário deve poder categorizar os itens. Cada categoria deve ter um nome e uma cor.
 
-Sistema de Enquetes: Permite criar enquetes, categorizá-las (com nome e cor) e exibir os resultados em um gráfico.
+O usuário deve poder filtrar os itens pela categoria definida.
 
 # 💾 Requisitos Obrigatórios Fundamentais:
 Persistência de Dados: Os dados cruciais do projeto escolhido (lista/categorias, ranking/avatar, ou enquetes) devem ser salvos localmente usando WebStorage.
