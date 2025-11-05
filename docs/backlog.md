@@ -15,5 +15,5 @@ Atualizado em 05/11/2025
 | 1. HTML e CSS    | Pedro, Vini e Yasmim ❌     |
 | 2. JavaScript  | Rafael  ❌    |
 | 3. BackEnd  | Rafael  ❌    |
-
+| 1. Frameworks CSS    | Pedro, Vini e Yasmim ❌     |
 
