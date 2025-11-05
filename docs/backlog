@@ -1,1 +1,23 @@
+# Backlog do projeto Footprintf
+Atualizado em 30/10/2025
+
+## Tarefas terminadas
+
+| Tarefa      | Responsável |
+| ----------- | ----------- |
+| 1. Criação da struct principal      | Rafael  ✔️     |
+----
+
+## Tarefas pendentes (em ordem de prioridade)
+
+| Tarefa      | Responsável |
+| ----------- | ----------- |
+| 1. Criação do menu principal     | Vinicius ➕➖     |
+| 2. Função para a inserção de modelos  | Rafael  ❌    |
+| 3. Função para a visualização de modelos | Vinicius  ❌ | 
+| 4. Função para a edição de modelos | Rafael  ❌ | 
+| 5. Função para a remoção de modelos | Vinicius  ❌ | 
+| 6. Função para fechar o programa. | Vinicius  ❌ |
+| 7. Função para a pesquisa de modelos. | Rafael  ❌ |
+| 8. Função principal | Rafael  ❌ | 
 
