@@ -1,4 +1,106 @@
-#nomeUsuario{
-    margin: auto;
+body {
+    background-color: #121212;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -60px;
+    display: flex;
+    width: 260px;
+
+}
+
+
+h2 {
+    margin-top: -90px;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.campo-de-entrada {
+    width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    display: block;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #f0f0f0;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#nomeUsuario {
+    background-color: #121212;
+    border: 1px solid #515158;
+    border-radius: 8px;
+    color: #f0f0f0;
+    outline: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
+}
+
+#nomeUsuario:focus {
+    border-color: #ffffff;
+    box-shadow: 0 0 5px rgba(100, 100, 100, 0.3);
+}
+
+
+
+
+.login-container {
+    width: 100%;
+    max-width: 340px;
+    padding: 24px;
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.campo-grupo {
+    margin-bottom: 16px;
+}
+
+.campo-grupo label {
+    display: block;
+    font-weight: 600;
+    color: #f0f0f0;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.campo-grupo input {
+    background-color: #121212;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    color: #f0f0f0;
+    outline: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
+}
+
+.campo-grupo input:focus {
+    border-color: #ffffff;
+    box-shadow: 0 0 5px rgba(100, 100, 100, 0.3);
 }
