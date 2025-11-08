@@ -4,24 +4,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Synapse</title>
-    <link rel="stylesheet" href="\css\style.css">
-    <link rel="stylesheet" href="\css\login.css">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="/style/login.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 </head>
 
 <body>
     <header>
-        <img src="\assets\logo.png" id="logo">
+        <img src="/imgs/synapse-removebg-preview.png" id="logo">
     </header>
 
     <main>
-        <section>
-            <label for="nomeUsuario">Nome:</label>
-            <input type="text" id="nomeUsuario" placeholder="Digite seu nome aqui">
+        <section class="campo-grupo">
+            <h2>Sign in to Synapse</h2>
+            <label for="nomeUsuario">Username or email address</label>
+            <input type="text" id="nomeUsuario">
         </section>
-    </main>
 
-    
+        <div class="campo-grupo">
+            <label for="senhaUsuario">Password</label>
+            <input type="password" id="senhaUsuario">
+        </div>
+    </main>
 </body>
-<script src="\js\login.js"></script>
+
 </html>
