@@ -104,3 +104,17 @@ label {
     border-color: #ffffff;
     box-shadow: 0 0 5px rgba(100, 100, 100, 0.3);
 }
+
+#submit {
+    background-color: #f0f0f0;
+    border: 1px solid #515158;
+    border-radius: 8px;
+    color: #121212;
+    outline: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
+    margin-top: 22px;
+    font-size: 15px;
+}
