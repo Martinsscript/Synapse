@@ -81,7 +81,6 @@ body {
     display: none;
   }
 
-  /* regras dentro do bloco @media — assim o CSS é válido */
   .search input {
     width: 120px;
   }
