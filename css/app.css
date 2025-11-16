@@ -76,7 +76,6 @@ body {
   color: white;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
   .main-nav {
     display: none;
