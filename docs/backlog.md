@@ -1,5 +1,5 @@
 # Backlog do projeto Synapse
-Atualizado em 05/11/2025
+Atualizado em 25/11/2025
 
 ## Tarefas terminadas
 
@@ -16,4 +16,5 @@ Atualizado em 05/11/2025
 | 2. JavaScript  | Rafael  ❌    |
 | 3. AJAX  | Rafael  ❌    |
 | 4. Frameworks CSS    | Pedro, Vini e Yasmim ❌     |
+| 5. Página de estatísticas    | Pedro, Vini, Yasmim e Rafael ❌     |
 
