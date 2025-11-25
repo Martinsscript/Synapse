@@ -5,7 +5,7 @@ Atualizado em 05/11/2025
 
 | Tarefa      | Responsável |
 | ----------- | ----------- |
-| 1. Criação dos marquivas      | Rafael  ✔️     |
+| 1. Criação dos arquivos      | Rafael  ✔️     |
 ----
 
 ## Tarefas pendentes (em ordem de prioridade)
