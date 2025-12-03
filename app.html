@@ -56,21 +56,15 @@
   <div class="app-layout">
 
   <aside class="sidebar">
-
-    <form id="form-categoria">
-
-      <input type="text" class="caixaPesquisa" id="nomeCategoria" placeholder="Nome da categoria:">
-
-      <input type="color" class="caixaPesquisa" id="corCategoria" placeholder="Cor da categoria:">
-
-      <button type="submit" class="btn btn-primary w-100 mt-2">Criar Categoria</button>
-
-      <hr> <div id="lista-filtros">
-
-        </div>
-
-    </form>
-
+      <form id="form-categoria">
+          <input type="text" class="caixaPesquisa" id="nomeCategoria" placeholder="Nome da categoria:">
+          <input type="color" class="caixaPesquisa" id="corCategoria" placeholder="Cor da categoria:">
+          <button type="submit" class="btn btn-primary w-100 mt-2">Criar Categoria</button>
+      </form> <hr> 
+      
+      <h5 class="mt-3">Filtros</h5>
+      <div id="lista-filtros">
+      </div>
   </aside>
 
   <main class="main-content">
@@ -84,7 +78,7 @@
       <button type="submit" class="btn btn-success mt-2" id="adicionarMidias">Adicionar Mídia</button>
     </form>
     
-    <hr> <div id="grid-midias">
+    <hr> <div id="grid-midias" class="row g-3">
       </div>
   </main>
 
