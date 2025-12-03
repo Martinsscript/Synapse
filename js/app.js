@@ -63,10 +63,12 @@ function renderizarCategorias() {
 
     for (let i = 0; i < vetorCategorias.length; i++) {
         let categoriasBtn = document.createElement('button')
+        categoriasBtn.type = 'button' 
         categoriasBtn.classList.add('btn', 'btn-outline-secondary', 'w-100', 'mt-2')
         categoriasBtn.textContent = vetorCategorias[i].nome
         categoriasBtn.style.borderColor = vetorCategorias[i].cor
         categoriasBtn.dataset.id = vetorCategorias[i].id
+        
         listaFiltros.appendChild(categoriasBtn)
 
         let option = document.createElement('option')
